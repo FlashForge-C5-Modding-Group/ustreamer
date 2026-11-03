@@ -18,3 +18,4 @@ vgcore.*
 *.pkg.tar.xz
 *.pkg.tar.zst
 *.tar.gz
+/c5/dist/
